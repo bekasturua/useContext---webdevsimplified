@@ -10,6 +10,7 @@ export default class ClassContextComponent extends Component {
       margin: "2rem",
     };
   }
+  
   render() {
     return (
       <ThemeContext.Consumer>
